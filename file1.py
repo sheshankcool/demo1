@@ -4,7 +4,7 @@ x=hello('mass maharaj')
 print(x)
 y=hello('rajinikanth')
 def world():
+<<<<<<< HEAD
     return "enough"
-print(world())
 print(hello('salaam rocky bhai')
-print('edit from branch demo4')
+print('edit from branch master')
