@@ -6,3 +6,4 @@ y=hello('ravi')
 def world():
     return 'this is my world"
 print(world())
+print(hello('rockstar'))
